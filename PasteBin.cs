@@ -26,7 +26,6 @@ public static class PasteBin
     /// <returns>The URL of the posted text.</returns>
     public static async Task<string> Create(string name, string text)
     {
-        //Task<string> pasteBinUrl;
         if (_apiKey == null)
         {
             throw new ConfigurationErrorsException("PasteBinApiKey is not set in the App.config file.");
