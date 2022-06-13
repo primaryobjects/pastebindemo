@@ -7,6 +7,8 @@ Perfect for remote debugging!
 
 Read the full tutorial: [Remote Debugging with Pastebin and Automatic Logging of Errors](https://www.primaryobjects.com/2011/09/12/remote-debugging-with-pastebin-and-automatic-logging-of-errors/)
 
+*Note, this version is for VSCode. See the Visual Studio .sln version [here](https://github.com/primaryobjects/PasteBin-Auto-Post).*
+
 ## Usage
 
 1. In VSCode, open the project folder and open a new Terminal window and type the following command:
